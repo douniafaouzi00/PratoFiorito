@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1544703472 source:c:\users\douni\desktop\c++\pratofiorito\prato.cpp
+	"prato.h"
+	<ctime>
+	<iostream>
+	<vector>
+
+1544697006 c:\users\douni\desktop\c++\pratofiorito\prato.h
+	"boardgame.h"
+	<string>
+	<vector>
+
+1544695233 c:\users\douni\desktop\c++\pratofiorito\boardgame.h
+	<string>
+
+1544697118 source:c:\users\douni\desktop\c++\pratofiorito\main.cpp
+	<iostream>
+	"prato.h"
+
+1544739503 source:c:\users\douni\desktop\pratofiorito\main.cpp
+	<iostream>
+	<iomanip>
+	"prato.h"
+
+1544739503 c:\users\douni\desktop\pratofiorito\prato.h
+	"boardgame.h"
+	<string>
+	<vector>
+
+1544739503 c:\users\douni\desktop\pratofiorito\boardgame.h
+	<string>
+
+1544739547 source:c:\users\douni\desktop\pratofiorito\prato.cpp
+	"prato.h"
+	<ctime>
+	<iostream>
+	<vector>
+
